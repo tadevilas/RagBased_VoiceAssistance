@@ -135,6 +135,7 @@ venv/
 ENV/
 env.bak/
 venv.bak/
+voice_assist
 
 # Spyder project settings
 .spyderproject

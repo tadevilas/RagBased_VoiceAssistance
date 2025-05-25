@@ -1,0 +1,27 @@
+# Add dependencies here
+# Streamlit UI
+streamlit
+
+# LangChain Core
+langchain
+sentence-transformers
+faiss-cpu
+
+# PDF Loader
+pypdf
+
+# Hugging Face Transformers (for Mistral)
+transformers
+accelerate
+torch
+
+# Text-to-Speech (Coqui TTS)
+TTS
+soundfile
+
+# Speech-to-Text (Vosk)
+vosk
+pyaudio
+openai-whisper
+
+python-dotenv
